@@ -1,4 +1,4 @@
-# Herocat Wang
+# Xiang Wang
 
 A student of Peking Univesity...
 
